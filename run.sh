@@ -1,3 +1,3 @@
 cd ./build/bin/
 ./RoundtripPong &
-./RoundtripPing 12
+./RoundtripPing 0 0 0
